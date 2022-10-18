@@ -1,5 +1,6 @@
 
-<img src="https://user-images.githubusercontent.com/77643882/196502554-22df29ef-1aed-41e2-b5e0-e07d7e9b4679.png" alt="Figma-logo" width="200" heigth="200" />
+<img src="https://user-images.githubusercontent.com/77643882/196502554-22df29ef-1aed-41e2-b5e0-e07d7e9b4679.png" alt="Figma-logo" width="150" heigth="150" />
+
 # DIW-Wireframe
 Figma wireframe for crowdfunding web-site
 
