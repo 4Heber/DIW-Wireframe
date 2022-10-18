@@ -8,3 +8,9 @@ Les ha surgido un cliente nuevo que necesita crear una página para gestionar ca
 
 El cliente quiere un diseño previo. Demanda que sea similar a las páginas que hay en este sector, como por ejemplo:
 [Indiegogo](https://www.indiegogo.com/) y [Kickstarter](https://www.kickstarter.com/)
+
+Los procesos consisten en:
+- Crear el *sketch* de las vistas de la aplicación, tanto en vista *desktop* com en vista *mobile*.
+- A raíz del *sketch*, hacer un *wireframe* de las vistas, tanto en vista *desktop* como en vista *mobile*.
+- Elaborar una guía de estilo.
+- Realizar un vídeo explicativo de los conceptos de UX/UI aplicados.
