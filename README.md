@@ -1,4 +1,5 @@
-# DIW-Wireframe
+
+![Figma-logo](https://user-images.githubusercontent.com/77643882/196502554-22df29ef-1aed-41e2-b5e0-e07d7e9b4679.png) # DIW-Wireframe
 Figma wireframe for crowdfunding web-site
 
 ### Práctica 1
