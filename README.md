@@ -16,3 +16,7 @@ Los procesos consisten en:
 - A raíz del *sketch*, hacer un *wireframe* de las vistas, tanto en vista *desktop* como en vista *mobile*.
 - Elaborar una guía de estilo.
 - Realizar un vídeo explicativo de los conceptos de UX/UI aplicados.
+
+### Guía de estilo - Paleta de colores
+
+![Paleta-colores](https://user-images.githubusercontent.com/77643882/198905635-d61a0d2d-f066-4248-8de8-227aa0f58e68.png)
