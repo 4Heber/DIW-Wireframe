@@ -42,3 +42,13 @@ Muestra - 01
 Muestra - 02 & 03
 
 <img src="https://user-images.githubusercontent.com/77643882/198906341-d6e81c72-31fe-4daf-8004-3611297b1a70.png" alt="Ejemplo-3" width="300" /> <img src="https://user-images.githubusercontent.com/77643882/198906222-34a4ac48-70a6-408e-b4d8-2e033ebffdee.png" alt="Ejemplo-2" width="300" />
+
+### Guía de estilo - Tipografía
+
+
+
+<img src="https://user-images.githubusercontent.com/77643882/198907458-0c4e2770-dba4-4cc2-b5c5-b2769e5b8fe8.png" alt="Tipografía" width="300" />
+
+
+
+
