@@ -19,6 +19,17 @@ Los procesos consisten en:
 
 ### *Sketch*
 
+<img src="docs/sketch/photo1667166937.jpeg" alt="sketch-1" width="300" /> <img src="docs/sketch/photo1667166937(4).jpeg" alt="sketch-2" width="300" />
+
+### *Wireframe*
+
+Header status on landing page.
+
+<img src="wireframe/Landing-page-header.png" alt="wireframe-1" width="600" />
+
+General mobile views.
+
+<img src="wireframe/Mobile-general-views.png" alt="wireframe-2" width="600" />
 
 ### Guía de estilo - Paleta de colores
 
