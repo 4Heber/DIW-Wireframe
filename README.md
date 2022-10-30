@@ -17,6 +17,17 @@ Los procesos consisten en:
 - Elaborar una guía de estilo.
 - Realizar un vídeo explicativo de los conceptos de UX/UI aplicados.
 
+### *Sketch*
+
+
 ### Guía de estilo - Paleta de colores
 
-![Paleta-colores](https://user-images.githubusercontent.com/77643882/198905635-d61a0d2d-f066-4248-8de8-227aa0f58e68.png)
+<img src="https://user-images.githubusercontent.com/77643882/198905635-d61a0d2d-f066-4248-8de8-227aa0f58e68.png" alt="Paleta-colores" width="600" />
+
+Muestra - 01
+
+<img src="https://user-images.githubusercontent.com/77643882/198906065-e69f8f79-4867-4f21-9ba5-5f9289dd48d8.png" alt="Ejemplo-1" width="600" />
+
+Muestra - 02 & 03
+
+<img src="https://user-images.githubusercontent.com/77643882/198906341-d6e81c72-31fe-4daf-8004-3611297b1a70.png" alt="Ejemplo-3" width="300" /> <img src="https://user-images.githubusercontent.com/77643882/198906222-34a4ac48-70a6-408e-b4d8-2e033ebffdee.png" alt="Ejemplo-2" width="300" />
