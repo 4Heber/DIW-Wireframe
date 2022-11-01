@@ -33,7 +33,7 @@ General mobile views.
 
 ### Guía de estilo - Paleta de colores
 
-<img src="https://user-images.githubusercontent.com/77643882/198905635-d61a0d2d-f066-4248-8de8-227aa0f58e68.png" alt="Paleta-colores" width="100%" />
+<img src="https://user-images.githubusercontent.com/77643882/198905635-d61a0d2d-f066-4248-8de8-227aa0f58e68.png" alt="Paleta-colores" width="80%" />
 
 Muestra - 01
 
@@ -76,6 +76,14 @@ Etiquetas como enlace y barra de búsqueda, relacionar información al contenido
 Indicador de ubicación en los procesos de iniciar una recaudación de fondos (*Start fundrising*) para guiar al usuario.
 
 <img src="https://user-images.githubusercontent.com/77643882/199336694-5b62a2cc-dda1-4852-8781-2c8f493b4202.png" alt="start-fundrising-breadcrumbs" width="50%" />
+
+- **External links**
+
+Enlaces externos a redes sociales.
+
+<img src="https://user-images.githubusercontent.com/77643882/199337987-4b3f91d4-e5d9-4a60-9b52-bc0cc64c05d4.png" alt="social-media-links" width="50%" />
+
+
 
 
 
