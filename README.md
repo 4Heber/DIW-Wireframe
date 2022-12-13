@@ -1,9 +1,14 @@
 
-# <img src="https://user-images.githubusercontent.com/77643882/196502554-22df29ef-1aed-41e2-b5e0-e07d7e9b4679.png" alt="Figma-logo" width="50" /> DIW-Wireframe
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/77643882/196502554-22df29ef-1aed-41e2-b5e0-e07d7e9b4679.png" alt="Figma-logo" width="50" />
+    <h1 align="center">DIW - Diseño Interfaces Web Práctica 1
+</p>
 
-## [Philantrofund Wireframe - Crowdfunding site](https://www.figma.com/file/809IEcC0ygNSTmdcdp8n79/Crowdfunding-site---Wireframe?node-id=71%3A204)
+### Para crear la maqueta/wireframe del proyecto se emplea la herramienta de diseño <a href="https://www.figma.com/">Figma</a>.
 
-### Práctica 1
+#### <a href="https://www.figma.com/file/809IEcC0ygNSTmdcdp8n79/Crowdfunding-site---Wireframe?node-id=71%3A204">Enlace al wireframe en Figma</a>
+
+## 📑 About <a name = "about"></a>
 
 En las prácticas de una empresa de mantenimiento de páginas web.
 Les ha surgido un cliente nuevo que necesita crear una página para gestionar campañas de ***CrowdFunding***.
@@ -17,15 +22,11 @@ Los procesos consisten en:
 - Elaborar una guía de estilo.
 - Realizar un vídeo explicativo de los conceptos de UX/UI aplicados.
 
-### *Sketch*
-
----
+## 📝 Sketch
 
 <img src="docs/sketch/photo1667166937.jpeg" alt="sketch-1" width="48%" /> <img src="docs/sketch/photo1667166937(4).jpeg" alt="sketch-2" width="48%" />
 
-### *Wireframe*
-
----
+## 📐 Wireframe
 
 **Header status on landing page.**
 
@@ -35,9 +36,7 @@ Los procesos consisten en:
 
 <img src="wireframe/Mobile-general-views.png" alt="wireframe-2" width="100%" />
 
-### Guía de estilo - Paleta de colores
-
----
+## 🎨 Guía de estilo - Paleta de colores
 
 <img src="https://user-images.githubusercontent.com/77643882/198905635-d61a0d2d-f066-4248-8de8-227aa0f58e68.png" alt="Paleta-colores" width="80%" />
 
@@ -49,15 +48,11 @@ Los procesos consisten en:
 
 <img src="https://user-images.githubusercontent.com/77643882/198906341-d6e81c72-31fe-4daf-8004-3611297b1a70.png" alt="Ejemplo-3" width="230" /> <img src="https://user-images.githubusercontent.com/77643882/198906222-34a4ac48-70a6-408e-b4d8-2e033ebffdee.png" alt="Ejemplo-2" width="350" />
 
-### Guía de estilo - Tipografía
-
----
+## ✒ Guía de estilo - Tipografía
 
 <img src="https://user-images.githubusercontent.com/77643882/198907458-0c4e2770-dba4-4cc2-b5c5-b2769e5b8fe8.png" alt="Tipografía" width="300" />
 
-### Conceptos de UX/UI aplicados
-
----
+## 🔠 Conceptos de UX/UI aplicados
 
 **Navigation**
 
