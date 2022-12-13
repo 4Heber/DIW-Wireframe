@@ -8,6 +8,8 @@
 
 #### <a href="https://www.figma.com/file/809IEcC0ygNSTmdcdp8n79/Crowdfunding-site---Wireframe?node-id=71%3A204">Enlace al wireframe en Figma</a>
 
+#### Ver prototipo generado en base a esta práctica: <a href="https://github.com/4Heber/Project-Philantrofund-prototype">Project-Philantrofund-prototype</a>
+
 ## 📑 About <a name = "about"></a>
 
 En las prácticas de una empresa de mantenimiento de páginas web.
